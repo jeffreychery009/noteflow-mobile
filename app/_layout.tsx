@@ -3,6 +3,7 @@ import { useFonts } from "expo-font";
 import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 import "react-native-reanimated";
+import "../nativewind-env";
 
 import { useColorScheme } from "@/hooks/useColorScheme";
 
